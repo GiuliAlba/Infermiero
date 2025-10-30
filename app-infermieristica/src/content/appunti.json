@@ -1,0 +1,13 @@
+{
+  "Cardiovascolare": "Cuore:\n- Atrio destro e sinistro\n- Ventricolo destro e sinistro\n- Valvole cardiache: mitrale, tricuspide, aortica, polmonare\n\nVasi sanguigni:\n- Arterie, vene e capillari\n- Struttura e funzione\n\nCircolazione:\n- Circolazione polmonare e sistemica\n- Pressione sanguigna e flusso\n- Frequenza cardiaca e regolazione\n\nSistemi di conduzione:\n- Nodo seno-atriale\n- Nodo atrioventricolare\n- Fascio di His e fibre di Purkinje\n\nRegolazione:\n- Nervosa: sistema simpatico e parasimpatico\n- Ormonale: adrenalina, noradrenalina, renina-angiotensina\n\nPatologie principali:\n- Ipotensione, ipertensione, infarto, aritmie, insufficienza cardiaca",
+
+  "Respiratorio": "Vie respiratorie:\n- Naso, faringe, laringe, trachea\n- Bronchi e bronchioli\n- Polmoni e alveoli\n\nMeccanica respiratoria:\n- Inspirazione ed espirazione\n- Diaframma e muscoli accessori\n\nScambi gassosi:\n- Ossigeno e anidride carbonica\n- Emoglobina e trasporto dei gas\n\nControllo respiratorio:\n- Centro respiratorio bulbare\n- Chemocettori e feedback\n\nPatologie principali:\n- Asma, bronchite, enfisema, polmonite, fibrosi polmonare",
+
+  "Digestivo": "Tratto digestivo:\n- Bocca, faringe, esofago\n- Stomaco e intestino tenue\n- Intestino crasso e retto\n- Fegato, cistifellea, pancreas\n\nDigestione e assorbimento:\n- Enzimi digestivi e bile\n- Assorbimento di nutrienti\n- Motilità intestinale\n\nPatologie principali:\n- Ulcera peptica, gastrite, colite, calcoli biliari, pancreatite",
+
+  "Muscolo-Scheletrico": "Ossa:\n- Scheletro assiale e appendicolare\n- Tipi di ossa: lunghe, corte, piatte, irregolari\n\nMuscoli:\n- Muscoli scheletrici, lisci e cardiaci\n- Funzione: movimento, postura, calore\n- Principali gruppi muscolari\n\nArticolazioni:\n- Tipi: fibrose, cartilaginee, sinoviali\n- Movimento e stabilità\n\nPatologie principali:\n- Fratture, artrite, osteoporosi, distorsioni",
+
+  "Nervoso": "Sistema nervoso centrale:\n- Cervello, cervelletto, tronco encefalico\n- Midollo spinale\n\nSistema nervoso periferico:\n- Nervi cranici e spinali\n- Sistema somatico e autonomo\n\nFunzioni:\n- Sensitiva, motoria, integrativa\n- Riflessi e controllo motorio\n\nPatologie principali:\n- Ictus, epilessia, sclerosi multipla, neuropatie periferiche",
+
+  "Endocrino": "Ghiandole principali:\n- Ipofisi, tiroide, paratiroidi, surreni\n- Pancreas endocrino, ovaie/testicoli\n\nOrmoni e funzione:\n- Metabolismo, crescita, riproduzione, risposta allo stress\n- Feedback negativo e positivo\n\nPatologie principali:\n- Diabete, ipotiroidismo, ipertiroidismo, sindrome di Cushing, ipogonadismo"
+}
